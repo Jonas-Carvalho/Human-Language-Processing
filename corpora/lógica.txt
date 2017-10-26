@@ -1,19 +1,10 @@
-﻿O que é lógica?
+O que é lógica?
 
+Lógica é o estudo dos argumentos. 
+Um argumento é um conjunto de enunciados na qual um dos enunciados é a conclusão e os demais são premissas, as quais servem para provar ou, pelo menos, fornecer alguma evidência para a conclusão. 
+Em outras palavras, a lógica nos guia, com ordem, de modo inteligível à distinção do que é falso ou verdadeiro.
 
-Lógica é o estudo dos argumentos. Um argumento é um conjunto de enunciados na qual um dos enunciados é a conclusão e os demais são premissas, as quais servem para provar ou, pelo menos, fornecer alguma evidência para a conclusão.
-  
-
-Um dos argumentos mais conhecidos (devido ao seu aspecto ubíquo como um exemplo na lógica elementar) é: “ Todos os homens são mortais. Sócrates é homem. Portanto, Sócrates é mortal. ”
- 
-
-Os dois primeiros enunciados são premissas que servem para provar a conclusão, Sócrates é mortal.
- 
-Em outras palavras, lógica é o que nos faz proceder, com ordem, de modo inteligível e assertivo.
-
-
-
-
+Baseado em:
 Lógica — John Nolt, Dennis Rohatyn.
 Tradução: Leila Zardo Puga, Mineko Yamashita.
 1ª ed. São Paulo: MAKRON, 1991
