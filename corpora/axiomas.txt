@@ -1,5 +1,5 @@
 ﻿Axiomas
 
 1. Todos os algoritmos são universais e válidos independentemente de sua execução;
-2. Cognição é um sub algoritmo cujo comportamento é de perceber as propriedades dos algoritmos primários que o descreve.
+2. Cognição é um sub algoritmo cujo comportamento é de perceber as propriedades dos algoritmos primários que o descreve;
 3. Todo algoritmo que dê origem a entidades cognitivas serão reportados de sua existência pelas entidades descritas.
