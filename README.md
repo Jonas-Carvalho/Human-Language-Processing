@@ -1,2 +1,2 @@
 # Human Language Processing
-Several attempts to get cognitive approach to machine as it reads human language.
+Several attempts to get cognitive entities in human language environment.
